@@ -74,8 +74,7 @@
                                 href="https://r.search.yahoo.com/_ylt=AwrKAKevJM9mPD8cJr71Qwx.;_ylu=c2VjA2NkLWF0dHIEc2xrA3NvdXJjZQR2dGlkAwRydXJsA2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bEdaVVJTYmlvdm8-/RV=2/RE=1724880175/RO=10/RU=https%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dlGZURSbiovo/RK=2/RS=8ekAKTM01COdQgXtZtdukFS.n.k-">fungsi
                                 pangkat</a>
                         </li>
-                </h2>
-            </td>
+               
             <td rowspan="6">
                 <P>
                     <b>Fungsi</b> adalah istilah relasi khusus dalam ilmu matematika yang memetakan tepat satu-satu
@@ -222,8 +221,6 @@
 
 
     </table>
- <h1><a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a></h1>
+ <a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a>
 
-</body>
 
-</html>
