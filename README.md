@@ -56,7 +56,7 @@
             <th colspan="2">
                 <image src="fungsi.png" alt="fungsi" width="100%" height="50%" />
             </th>
-        </tr>
+    
         <tr>
             <th colspan="2">
                 <a
@@ -65,7 +65,7 @@
                 </a>
             </th>
 
-        </tr>
+      
         <tr>
             <td>
                 <h2>
@@ -149,7 +149,7 @@
                 </p>
 
             </td>
-        </tr>
+        
 
 
         <tr>
