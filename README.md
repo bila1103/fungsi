@@ -208,8 +208,7 @@
                     </li>
                 </h2>
             </td>
-        </tr>
-
+        
         <tr>
             <td colspan="2">
                 <footer>
